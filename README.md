@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @felipeqw
-- meu emeil de contato é felipe.rosa.santos@escola.pr.gov.br
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .
+- 👀 I’m interested in em estudar
+- 🌱 I’m currently learning o javascript
+- 💞️ I’m looking to collaborate on com a disiplina de pensamento computacional 
+-felipe.rosa.santos@escola.pr.gov.br
 
